@@ -1,0 +1,26 @@
+{
+  "name": "X9CResistor",
+  "version": "1.0.0",
+  "description": "Arduino library for controlling X9C series digital potentiometers by wiper position or resistance.",
+  "keywords": [
+    "x9c",
+    "potentiometer",
+    "digital-potentiometer",
+    "resistor",
+    "arduino"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rick-Andrade/X9CResistor.git"
+  },
+  "authors": [
+    {
+      "name": "Henrique Andrade",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "X9CResistor.h"
+}
