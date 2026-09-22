@@ -502,8 +502,8 @@ when persistence is required.
 X9CResistor/
 │
 ├── src/
-│   ├── X9C.cpp
-│   ├── X9C.h
+│   ├── X9CResistor.cpp
+│   ├── X9CResistor.h
 │   └── X9CModel.h
 │
 ├── examples/
